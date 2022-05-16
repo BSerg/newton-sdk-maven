@@ -1,1 +1,0 @@
-# newton-sdk-maven
