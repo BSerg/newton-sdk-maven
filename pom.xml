@@ -5,5 +5,4 @@
   <groupId>io.nwtn</groupId>
   <artifactId>newton-sdk</artifactId>
   <version>0.1.6</version>
-  <packaging>aar</packaging>
 </project>
